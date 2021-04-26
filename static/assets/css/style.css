@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 56px;
   color: wheat; 
   align-items: center; 
-  font-family: 'Times New Roman', Times, serif
+  font-family: 'Times New Roman', Times, serif;
 }
 
 #hero p {
@@ -1188,7 +1188,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   position: relative;
-  font-family: cursive;
+  font-family: 'Times New Roman', Times, serif;
   padding: 0;
   margin: 0 0 15px 0; 
   color: #9213b9; 
@@ -1222,7 +1222,7 @@ section {
 }
 #footer .h3{
   font-size: 30px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: cursive;
   color: #272829;
 }
 #footer .social-links a:hover {
